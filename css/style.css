@@ -51,3 +51,23 @@ html { font-size: 100%; }
 .clearfix {
   *zoom: 1;
 }
+
+.header {
+  min-height: 5rem;
+  background-color: rgba( 63, 48,117,1);
+  position: fixed;
+}
+
+.pastwork {
+  min-height: 5rem;
+  text-align: center;
+}
+
+.screenshot {
+  height: 5rem;
+}
+
+.socialcontact {
+  min-height: 5rem;
+  text-align: center;
+}
